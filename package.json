@@ -1,0 +1,16 @@
+{
+  "name": "cli-kitt",
+  "version": "1.0.0",
+  "description": "CLI programming utility kit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "cli",
+    "programming",
+    "framework"
+  ],
+  "author": "TAKAMI Koji <vzg03566@gmail.com>",
+  "license": "MIT"
+}
