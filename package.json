@@ -12,5 +12,8 @@
     "framework"
   ],
   "author": "TAKAMI Koji <vzg03566@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "hash-arg": "^1.0.7"
+  }
 }
